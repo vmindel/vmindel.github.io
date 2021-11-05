@@ -3,5 +3,5 @@
 ### Header 3
 **bold**
 
-[new page](/trial.md)
+Notes for the Advanced Python 2021 [course](/mds/notes.md)
 
