@@ -40,7 +40,7 @@
 
 * ```git init; git add; git status```
 
-* some vim basics ```:wq``` 
+* some vim basics ```esc``` ```:wq``` 
 
 * Authentication with private/public pair of keys in GitHub
 
@@ -50,18 +50,18 @@
 
 * - Headers <h1> New h1 Header </h1> 
   - Paragraphs <p> new paragraph</p> 
-  - Ttiels of the tabs <title> </title>
+  - Title of the tabs <title> </title>
   - Favicons in the tabs
 
 ### HW:
 
-[] Create a GitHub repository for your GitHub pages using the USERNAME.github.io repository name. Use Markdown to create your web site.
+[x] Create a GitHub repository for your GitHub pages using the USERNAME.github.io repository name. Use Markdown to create your web site.
 
-[] Add notes from the current doc of the class to the website;  
+[x] Add notes from the current doc of the class to the website;  
 
-[] Add page 'exercism' to the webpage and in it links to solutions and reviewers of the exercises. 
+[x] Add page 'exercism' to the webpage and in it links to solutions and reviewers of the exercises. 
 
-[] Move over the file you might have created in the notes directory of this repository to your own repository where you can maintain it easily and it can become part of your web site. Send a PR to remove it from this repo.
+[x] Move over the file you might have created in the notes directory of this repository to your own repository where you can maintain it easily and it can become part of your web site. Send a PR to remove it from this repo.
 
 [] Make a GitHub html page into a separater repo + config the repo to see it as a webpage.
 

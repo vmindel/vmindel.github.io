@@ -3,5 +3,5 @@
 
  #### * Notes for the Advanced Python 2021 [course](/mds/notes.md)
 
-#### * My solutions for basic Exrcism [exercises](/mds/exercism.md)  
+#### * My solutions for basic Exercism [exercises](/mds/exercism.md)  
 
