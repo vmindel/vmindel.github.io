@@ -63,7 +63,15 @@
 
 [x] Move over the file you might have created in the notes directory of this repository to your own repository where you can maintain it easily and it can become part of your web site. Send a PR to remove it from this repo.
 
-[] Make a GitHub html page into a separater repo + config the repo to see it as a webpage.
+[x] Make a GitHub html page into a separater repo + config the repo to see it as a webpage.
+
+
+
+## 9.11 Lecture 3
+
+[] Send a pull request to add my websites to the README.md of the course's repository in the place where names of all students are. 
+
+
 
 
 
