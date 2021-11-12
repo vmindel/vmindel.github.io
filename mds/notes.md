@@ -48,10 +48,10 @@
 
 * ### Html tags:
 
-* - Headers <h1> New h1 Header </h1> 
-  - Paragraphs <p> new paragraph</p> 
-  - Title of the tabs <title> </title>
-  - Favicons in the tabs
+* - ```Headers <h1> New h1 Header </h1> ```
+  - ```Paragraphs <p> new paragraph</p> ```
+  - ```Title of the tabs <title> </title>```
+  - ```Favicons in the tabs```
 
 ### HW:
 
@@ -71,7 +71,32 @@
 
 [] Send a pull request to add my websites to the README.md of the course's repository in the place where names of all students are. 
 
+[] Build a Flask website that will have some data and display it upon query. 
+
+* Some flask tutorial:
+
+  ```
+  app = Flask(__name__)
+  
+  
+  @app.route("/")
+  def main():
+      return "Hello World!"
+  ```
+
+* Testing:
+
+  ```
+  import app
+  
+  def test_app():
+      web = app.app.test_client()
+  
+      rv = web.get('/')
+      assert rv.status == '200 OK'
+      assert rv.data == b'Hello World!'
+  ```
 
 
 
-
+* Different methods for accessing forms in HTML via Flask - ```GET``` and ```POST``` . 
