@@ -22,7 +22,9 @@
   git remote -v
   ```
 
-* Testing principles in development  
+* Testing principles in development 
+
+---
 
 ### HW:
 
@@ -53,6 +55,8 @@
   - ```Title of the tabs <title> </title>```
   - ```Favicons in the tabs```
 
+---
+
 ### HW:
 
 [x] Create a GitHub repository for your GitHub pages using the USERNAME.github.io repository name. Use Markdown to create your web site.
@@ -69,13 +73,17 @@
 
 ## 9.11 Lecture 3
 
-[] Send a pull request to add my websites to the README.md of the course's repository in the place where names of all students are. 
+### HW:
 
-[] Build a Flask website that will have some data and display it upon query. 
+[x] Send a pull request to add my websites to the README.md of the course's repository in the place where names of all students are. 
+
+[x] Build a Flask website that will have some data and display it upon query. 
+
+---
 
 * Some flask tutorial:
 
-  ```
+  ```python
   app = Flask(__name__)
   
   
@@ -86,7 +94,7 @@
 
 * Testing:
 
-  ```
+  ```python
   import app
   
   def test_app():
@@ -100,3 +108,17 @@
 
 
 * Different methods for accessing forms in HTML via Flask - ```GET``` and ```POST``` . 
+
+## 16.11 Lecture 4
+
+* ```if __name__ == '__main__'``` syntaxis for running the scripts as modules vs as programs. 
+* Jinja2 templatig system and integration of conditionals and loops into the html with flask. 
+* basics of the CSS and local <style>  in the html docs themselves. 
+* styling blocks of html - blocks, classes and ids.
+
+### HW:
+
+[] List all **interesting** modules you use
+
+[] Update the README.md of the course repo with my Assignment 3 submission.
+
