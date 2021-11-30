@@ -118,7 +118,18 @@
 
 ### HW:
 
-[] List all **interesting** modules you use
+[x] List all **interesting** modules you use
 
-[] Update the README.md of the course repo with my Assignment 3 submission.
+[x] Update the README.md of the course repo with my Assignment 3 submission.
+
+
+
+## 23.11 Lecture 5
+
+* ```pip freeze -r requirements.txt -c constraints.txt``` 
+* Algorithmic complexity:
+* * inserting a value n a list is O(1)
+  * finding a value in the list is O(n)
+  * binary search on sorted list is O(log(n))
+  * the complexity of sorting algortihms and different implementations 
 
