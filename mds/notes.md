@@ -133,3 +133,7 @@
   * binary search on sorted list is O(log(n))
   * the complexity of sorting algortihms and different implementations 
 
+## 30.11 Lecture 6
+
+* Basics of the ML; linear regression; saving model and evaluating new data.
+* 
