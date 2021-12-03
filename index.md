@@ -5,3 +5,4 @@
 
 #### * My solutions for basic Exercism [exercises](/mds/exercism.md)  
 
+#### * [My solution](/mds/titanic-tutorial-vmindel.html) to Titanic tutorial from Kaggle 
