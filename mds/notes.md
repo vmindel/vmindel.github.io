@@ -136,4 +136,13 @@
 ## 30.11 Lecture 6
 
 * Basics of the ML; linear regression; saving model and evaluating new data.
-* 
+
+
+
+## 7.12 Lecture 7
+
+* Parsing of the web pages using different tools.
+
+
+
+## 14.12 Lecture 8
